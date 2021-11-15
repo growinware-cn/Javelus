@@ -1,0 +1,1 @@
+LANG=C ARCH_DATA_MODEL=64 ALT_BOOTDIR=/java/1.8 make DEBUG_BINARIES=true fastdebug
